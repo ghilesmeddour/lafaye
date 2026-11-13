@@ -12,9 +12,9 @@ suivante. Le même article, en données, est donné plus bas.*
 
 | | |
 | --- | --- |
-| Entrées | 2 703 : 2 409 articles et 294 chapitres |
+| Entrées | 2 704 : 2 409 articles et 295 chapitres |
 | Texte | environ 1,37 million de mots |
-| Citations attribuées | 15 847, de 76 auteurs (Voltaire, Bossuet, Rousseau, Rollin, Fénelon…) |
+| Citations attribuées | 15 852, de 76 auteurs (Voltaire, Bossuet, Rousseau, Rollin, Fénelon…) |
 | Notes de bas de page | 115 |
 | Fichier | `data/lafaye.jsonl`, une entrée par ligne |
 
