@@ -14,8 +14,8 @@ suivante. Le même article, en données, est donné plus bas.*
 | --- | --- |
 | Entrées | 2 703 : 2 409 articles et 294 chapitres |
 | Texte | environ 1,37 million de mots |
-| Citations attribuées | 15 829, de 76 auteurs (Voltaire, Bossuet, Rousseau, Rollin, Fénelon…) |
-| Notes de bas de page | 114 |
+| Citations attribuées | 15 847, de 76 auteurs (Voltaire, Bossuet, Rousseau, Rollin, Fénelon…) |
+| Notes de bas de page | 115 |
 | Fichier | `data/lafaye.jsonl`, une entrée par ligne |
 
 ## Exemple
@@ -54,7 +54,7 @@ L'article « Amour, amourette » :
 | `vedette` | La vedette telle qu'imprimée, en capitales ; pour un chapitre, son titre. |
 | `termes` | Les synonymes comparés, en minuscules. |
 | `idee_commune` | Ce que les synonymes ont en commun : la phrase qui suit la vedette. |
-| `paragraphes` | Le corps de l'entrée. L'italique est rendu par des astérisques. |
+| `paragraphes` | Le corps de l'entrée. L'italique est rendu par des astérisques, les vers gardent leurs retours à la ligne (`\n`). |
 | `citations` | Citations entre guillemets suivies d'un sigle d'auteur : `texte`, `sigle`, `auteur`. |
 | `notes` | Notes de bas de page : `appel` (numéro), `page_scan`, `texte`. |
 | `exemples` | Chapitres seulement : les groupes de mots que le chapitre traite en bloc. |
@@ -73,7 +73,6 @@ qui donnent un mot inexistant sont corrigées.
 Limites :
 
 - il reste des erreurs de lecture, et le grec n'a pas été vérifié ;
-- les citations en vers sont rendues à la suite, sans retour à la ligne ;
 - `citations` ne contient que les citations entre guillemets suivies d'un sigle d'auteur reconnu ;
 - l'introduction du livre et ses tables ne sont pas dans le jeu de données.
 
