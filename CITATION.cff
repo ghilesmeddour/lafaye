@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce jeu de données, merci de le citer ainsi."
+type: dataset
+title: "Dictionnaire des synonymes de Lafaye : jeu de données"
+abstract: >-
+  Le Dictionnaire des synonymes de la langue française de Pierre-Benjamin Lafaye (9e édition, avec
+  le Supplément) en jeu de données : pour chaque groupe de synonymes, ce que les mots ont en commun,
+  ce qui les distingue, les citations d'auteurs attribuées et les notes. Texte établi d'après
+  l'exemplaire de l'Université de Toronto numérisé par Internet Archive.
+authors:
+  - family-names: Meddour
+    given-names: Ghiles
+version: 1.0.0
+date-released: "2026-11-14"
+license: CC-BY-4.0
+url: "https://motjuste.fr/difference"
+repository-code: "https://github.com/ghilesmeddour/lafaye"
+keywords:
+  - synonymes
+  - lexicographie
+  - langue française
+  - dictionnaire
+  - XIXe siècle

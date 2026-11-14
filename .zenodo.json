@@ -1,0 +1,14 @@
+{
+  "upload_type": "dataset",
+  "title": "Dictionnaire des synonymes de Lafaye : jeu de données",
+  "description": "<p>Le <em>Dictionnaire des synonymes de la langue française</em> de Pierre-Benjamin Lafaye (9e édition, avec le Supplément) en jeu de données : pour chaque groupe de synonymes, ce que les mots ont en commun, ce qui les distingue, les citations d'auteurs attribuées et les notes.</p><p>Texte établi d'après l'exemplaire de l'Université de Toronto numérisé par Internet Archive (dictionnairedess00lafauoft). Le jeu se lit en ligne dans la section <a href=\"https://motjuste.fr/difference\">Différence entre synonymes</a> de MotJuste.</p>",
+  "creators": [{"name": "Meddour, Ghiles"}],
+  "license": "cc-by-4.0",
+  "language": "fra",
+  "version": "1.0.0",
+  "keywords": ["synonymes", "lexicographie", "langue française", "dictionnaire", "XIXe siècle"],
+  "related_identifiers": [
+    {"identifier": "https://archive.org/details/dictionnairedess00lafauoft", "relation": "isDerivedFrom", "resource_type": "publication-book"},
+    {"identifier": "https://motjuste.fr/difference", "relation": "isSupplementTo"}
+  ]
+}
