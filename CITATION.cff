@@ -14,7 +14,6 @@ version: 1.0.0
 date-released: "2026-11-14"
 license: CC-BY-4.0
 url: "https://motjuste.fr/difference"
-repository-code: "https://github.com/ghilesmeddour/lafaye"
 keywords:
   - synonymes
   - lexicographie
