@@ -1,5 +1,7 @@
 # Dictionnaire des synonymes de Lafaye
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24210109.svg)](https://doi.org/10.5281/zenodo.24210109)
+
 Le *Dictionnaire des synonymes de la langue française* de Pierre-Benjamin Lafaye (9e édition, avec
 le Supplément) en jeu de données : pour chaque groupe de synonymes, ce que les mots ont en commun,
 ce qui les distingue, et les citations d'auteurs qui le montrent. Il se lit en ligne dans la section
